@@ -43,5 +43,3 @@ number-guessing-game/
 
 # License
 MIT License
-
-MIT License
